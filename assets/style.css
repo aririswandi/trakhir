@@ -1,0 +1,12 @@
+body{
+	width: 100%;
+	padding-top: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	/*background-color: #ecf0f1;*/
+	background-image: url('logo.JPEG');
+}
+p{
+	width: 50%;
+	height: 10px;
+}
